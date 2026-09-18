@@ -1,4 +1,4 @@
-const SELLER_EMAIL = 'INSERT_SELLER_EMAIL_HERE@example.com';
+const SELLER_EMAIL = 'fecundintegrated@gmail.com';
 const form = document.querySelector('#form');
 const status = document.querySelector('#status');
 form?.addEventListener('submit', (event) => {
